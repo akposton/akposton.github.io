@@ -1,0 +1,12 @@
+body {
+    background-color: #DDD;
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    color: #BBB;
+}
+h1 {
+    font-size: 7em;
+}
+.highlighted {
+    color: rgb(1,172,250);
+}
